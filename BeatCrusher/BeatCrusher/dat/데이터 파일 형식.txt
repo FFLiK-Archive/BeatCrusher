@@ -1,0 +1,8 @@
+* [NUM] file => music datas
+	music.msc 	: mp3 music
+	block.dat 	: block create time data set ([TIME] [LOOP])
+	clr.dat		: color data set ([POS(block)] [RGB(r)] [RGB(g)] [RGB(b)])
+	dir.dat		: block direction data set ([NUM] [NUM])
+	info.dat	: music info file (title, artist, length, theme color)
+	pos.dat		: block position data set ([X] [Y])
+	rank.dat	: rank and score data ([RANK] [SCORE])
